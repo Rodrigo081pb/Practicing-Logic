@@ -1,4 +1,4 @@
-/* EXERCÍCIOS
+/* EXERCÍCIOS javascript 
 
 let pe = 5.79;
 let pg = 6.66;
